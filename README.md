@@ -34,9 +34,13 @@ It goes a step further by analysing **eye brightness ratios** to estimate whethe
 
 ### 📂 File Structure
 ├── detect.cpp
+
 ├── Resources/
+
 │   ├── haarcascade_frontalface_default.xml
+
 │   ├── haarcascade_eye_tree_eyeglasses.xml
+
 └── README.md
 
 ---
